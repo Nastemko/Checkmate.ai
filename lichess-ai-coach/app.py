@@ -79,7 +79,7 @@ def analyze_games_with_gemini(games_list):
 
     prompt = f"""You are a personalized chess coach. I have played many games on Lichess.org.
     I want to understand the general themes and trends in my gameplay in simple, colloquial terms.
-    Do not use technical chess jargon like specific opening names (e.g., "Sicilian Defense," "Ruy Lopez") or complex tactical terms.
+    minimize the use of technical chess jargon like specific opening names (e.g., "Sicilian Defense," "Ruy Lopez") or complex tactical terms.
     Instead, focus on broad strategic patterns, common mistakes, and areas for improvement.
     
     Here is a summary of some of my recent games (first 20 games are provided):
