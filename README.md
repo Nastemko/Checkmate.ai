@@ -11,3 +11,6 @@ Image would show the current "Gem" in Gemini 2.5 Flash. Where it can play with a
 <img width="1128" alt="Screenshot 2025-05-31 at 11 09 17 AM" src="https://github.com/user-attachments/assets/2fc71c63-f638-4541-901f-0e659420ca21" />
 
 This is promising, as the diagram looks like it is from Lichess.org. And, this new app will be able to generate diagrams like the one here during the conversation with the user. 
+
+
+Initial attempt at development with Gemini 2.5 Flash (5/31) 
